@@ -30,5 +30,5 @@ const myVue = new Vue({
     'test-component': TestComponent,
   },
 });
-console.log(myVue);
+
 export default myVue;

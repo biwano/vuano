@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "description": "A Vue.js project",
   "author": "Bruno Ilponse",
-  "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config config/webpack.conf.js",
     "start": "npm run dev",

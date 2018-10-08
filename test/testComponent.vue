@@ -2,7 +2,7 @@
   <div>
   	<b>Boolean Radio</b>
      <boolean-radio v-model="booleanAttribute"></boolean-radio>
-    &nbsp;/ Value : {{booleanAttribute}}
+    &nbsp;/ Value : <span ref="booleanDom">{{booleanAttribute}}</span>
     <hr/>
 
     <h3>Breadcrumb</h3>
